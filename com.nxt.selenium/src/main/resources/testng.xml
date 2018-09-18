@@ -3,7 +3,12 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.nxt.selenium.demo"/>
+      <class name="com.nxt.selenium.class1"/>
+      <class name="com.nxt.selenium.class2"/>
+      <class name="com.nxt.selenium.class3"/>
+      <class name="com.nxt.selenium.class4"/>
+      <class name="com.nxt.selenium.class5"/>
+      <class name="com.nxt.selenium.class6"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
